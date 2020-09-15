@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EmployeeDetails</string>
+    <string name="Welcome">Welcome</string>
+    <string name="add_member">Add Details</string>
+    <string name="Retrieve_List">Retrieve List</string>
+    <string name="EmployeeDetails">Employee Details</string>
+    <string name="contact">Contact</string>
+    <string name="Name">Employee\'s Name</string>
+    <string name="Email">Email</string>
+    <string name="EmployeeDetailsEntry">Enter the employee details</string>
+    <string name="EmployeeDetailsReq">Enter The Employee Details</string>
+    <string name="Contact_No">Contact No</string>
+    <string name="EmployeeName">Employee\'s Name</string>
+    <string name="save">Save</string>
+</resources>
